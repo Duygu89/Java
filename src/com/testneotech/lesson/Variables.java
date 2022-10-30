@@ -1,0 +1,26 @@
+package com.testneotech.lesson;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		int variable1 = 15 ;
+		int someNumber = 5 ;
+		
+		System.out.println(20);
+		System.out.println(variable1);
+		System.out.println(someNumber);
+		System.out.println("someNumber");
+		//not the value that is stored in the container
+		/*
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 */
+	
+
+	}
+
+}
